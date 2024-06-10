@@ -1,23 +1,6 @@
 <!DOCTYPE html>
 <html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Analisi SEO con PHP - Evo Sistemi</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        .header, .content, .footer {
-            margin-bottom: 20px;
-        }
-        .header img {
-            max-width: 200px;
-        }
-    </style>
-</head>
+ <title>Analisi SEO con PHP - Evo Sistemi</title>
 <body>
     <div class="header">
         <img src="https://www.evosistemi.com/wp-content/uploads/2022/04/logo-evosistemi-s.png" alt="Evo Sistemi Logo">
